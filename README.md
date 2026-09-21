@@ -44,7 +44,7 @@ This project demonstrates the creative integration of:
 ## 🙋‍♂️ Author
 
 Made with 💻 and ❤️ by **Samip Suebdi **  
-🔗 [Portfolio](https://samipsubedi.vercel.app) • [GitHub](https://github.com/samip-subedi)
+• [GitHub](https://github.com/samip-subedi)
 
 
 
